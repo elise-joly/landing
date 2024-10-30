@@ -1,0 +1,32 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.3) 50%), url(../../images/backgroundsss.jpg);
+	color: #FFFFFF;
+	padding: 150px 5px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	font-family: "Lora", serif;
+	font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.banner h2 {
+	font-size: 30px;
+	opacity: 0.8;
+	margin-bottom: 50px;
+	font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.banner a {
+	font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
